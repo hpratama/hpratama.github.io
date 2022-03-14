@@ -8,6 +8,38 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://hpratama.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title> Predict the Efficiency of CO2 Trapping with Machine Learning</title>
+      <link>https://hpratama.github.io/projects/project-21/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/projects/project-21/</guid>
+      <description>Skills: Python, Numpy, Pandas, keras, scikit-learn
+The goal of this project is to predict the efficiency of CO2 trapping with #machinelearning. To evaluate the efficiency of CO2 trapping performance, we need to estimate the Residual Trapping Index (RTI) and Solubility Trapping Index (STI).
+  Using the flowchart on the picture above, we extract petrophysical properties from multiple real field data to get the input and output. Then, we found that the #randomforest algorithm gives us the robust model.</description>
+    </item>
+    
+    <item>
+      <title>Using AI to Predict Acoustic Impedance from Seismic Data.</title>
+      <link>https://hpratama.github.io/projects/project-20/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/projects/project-20/</guid>
+      <description>Skills: Python, Numpy, Pandas, scikit-learn, Keras, Scipy
+Estimating physical properties could be done by using seismic inversion. But, what if we build an AI model that can learn and estimate the physical properties using seismic data?
+I start this journey by mapping some challenges that I&amp;rsquo;ll face. First, the different dimensions between 1-dimensional AI value and 3-dimensional seismic volume. Then, the different scales and frequencies of AI and seismic data.</description>
+    </item>
+    
+    <item>
+      <title>Tools to Predict Well Log Curve Powered by AI</title>
+      <link>https://hpratama.github.io/projects/project-19/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hpratama.github.io/projects/project-19/</guid>
+      <description>Skills: Python, Numpy, Pandas, Scikit-learn, lasio, PyQt5
+  SLog process is simple first select the Output, the log curve you want to predict. Then, select the others log curves input or features. Not sure, which of those logs will be the right input? Don&amp;rsquo;t worry! You can easily choose and filter the input based on the correlation with the target logs. Also, you can see the missing curve in which depth for each well.</description>
+    </item>
+    
+    <item>
       <title>Book Recommendation using BERT Word-embedding</title>
       <link>https://hpratama.github.io/projects/project-18/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>

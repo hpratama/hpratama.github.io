@@ -1,205 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://hpratama.github.io/projects/project-21/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>hpratama.github.io/about/</loc>
+    <lastmod>2023-01-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/</loc>
+    <lastmod>2022-12-02T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-16/</loc>
+    <lastmod>2022-12-02T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/</loc>
+    <lastmod>2022-12-02T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-15/</loc>
+    <lastmod>2022-11-16T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-14/</loc>
+    <lastmod>2022-09-28T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/publications/publication-03/</loc>
+    <lastmod>2022-07-02T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-13/</loc>
+    <lastmod>2022-07-02T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/publications/</loc>
+    <lastmod>2022-07-02T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/infographics/</loc>
+    <lastmod>2022-04-09T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/talks/</loc>
+    <lastmod>2022-04-09T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/blogs/</loc>
+    <lastmod>2022-04-08T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/blogs/how-to-master-streamlit-for-data-science/</loc>
+    <lastmod>2022-04-08T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/blogs/what-is-bioinformatics/</loc>
+    <lastmod>2022-04-03T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-12/</loc>
+    <lastmod>2021-12-18T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-11/</loc>
+    <lastmod>2021-12-18T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-10/</loc>
+    <lastmod>2021-11-14T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-09/</loc>
+    <lastmod>2020-10-17T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/publications/publication-02/</loc>
+    <lastmod>2020-09-29T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/tags/first/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/page/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/tags/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-08/</loc>
+    <lastmod>2020-09-14T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-07/</loc>
+    <lastmod>2020-07-12T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-06/</loc>
+    <lastmod>2020-06-29T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-05/</loc>
+    <lastmod>2020-03-27T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-04/</loc>
+    <lastmod>2020-01-22T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-03/</loc>
+    <lastmod>2019-10-22T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-02/</loc>
+    <lastmod>2019-09-02T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/publications/publication-01/</loc>
+    <lastmod>2019-04-29T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/projects/project-01/</loc>
+    <lastmod>2018-11-14T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>hpratama.github.io/categories/</loc>
   </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/tags/geoscience/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/tags/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-20/</loc>
-    <lastmod>2021-12-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-19/</loc>
-    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-18/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/tags/machine-learning/</loc>
-    <lastmod>2021-02-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-17/</loc>
-    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-15/</loc>
-    <lastmod>2021-01-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/tags/desktop-application/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-14/</loc>
-    <lastmod>2020-12-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-12/</loc>
-    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-13/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-9/</loc>
-    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-11/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-8/</loc>
-    <lastmod>2020-09-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-10/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-7/</loc>
-    <lastmod>2020-07-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-5/</loc>
-    <lastmod>2020-03-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-4/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-3/</loc>
-    <lastmod>2019-10-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-2/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-6/</loc>
-    <lastmod>2019-06-29T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/project-1/</loc>
-    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/projects/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hpratama.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
 </urlset>

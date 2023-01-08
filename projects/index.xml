@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Hadyan&#39;s Portfolio | Hadyan Pratama</title>
-    <link>hpratama.github.io/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Hadyan&#39;s Portfolio | Hadyan Pratama</description>
     <image>
-      <url>hpratama.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>hpratama.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Dec 2022 23:15:00 +0700</lastBuildDate><atom:link href="hpratama.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 23:15:00 +0700</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Missing Trace in Seismic Data Prediction using GAN: Pix2Pix Method</title>
-      <link>hpratama.github.io/projects/project-16/</link>
+      <link>/projects/project-16/</link>
       <pubDate>Fri, 02 Dec 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-16/</guid>
+      <guid>/projects/project-16/</guid>
       <description>Estimate the missing trace in seismic data using novel approach GAN Pix2Pix method</description>
     </item>
     
     <item>
       <title>Facies Classication in 3D Seismic Data using Convolutional Neural Network</title>
-      <link>hpratama.github.io/projects/project-15/</link>
+      <link>/projects/project-15/</link>
       <pubDate>Wed, 16 Nov 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-15/</guid>
+      <guid>/projects/project-15/</guid>
       <description>Predict the facies in 3D seismic data using CNN and transfer learning technique</description>
     </item>
     
     <item>
       <title>Mapping Reservoir Facies Distribution using Convolutional Neural Network</title>
-      <link>hpratama.github.io/projects/project-14/</link>
+      <link>/projects/project-14/</link>
       <pubDate>Wed, 28 Sep 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-14/</guid>
+      <guid>/projects/project-14/</guid>
       <description>Using AI model to mapping the distribution of reservoir facies using only 3D seismic data</description>
     </item>
     
     <item>
       <title>Geological Features Estimation with Semi-Supervised Learning</title>
-      <link>hpratama.github.io/projects/project-13/</link>
+      <link>/projects/project-13/</link>
       <pubDate>Sat, 02 Jul 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-13/</guid>
+      <guid>/projects/project-13/</guid>
       <description>Automated geological interpretation in 3D seismic data using enhanced workflow combine multi attribute seismic, unsupervised machine learning, and Convolutional Neural Network</description>
     </item>
     
     <item>
       <title>Predict the Efficiency of CO2 Trapping with Machine Learning</title>
-      <link>hpratama.github.io/projects/project-12/</link>
+      <link>/projects/project-12/</link>
       <pubDate>Sat, 18 Dec 2021 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-12/</guid>
+      <guid>/projects/project-12/</guid>
       <description>Developed an AI model to predict the efficiency of CO2 trapping</description>
     </item>
     
     <item>
       <title>Using AI to Predict Acoustic Impedance from Seismic Data</title>
-      <link>hpratama.github.io/projects/project-11/</link>
+      <link>/projects/project-11/</link>
       <pubDate>Sat, 18 Dec 2021 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-11/</guid>
+      <guid>/projects/project-11/</guid>
       <description>Developed an AI model that can learn and estimate the physical properties using seismic data.</description>
     </item>
     
     <item>
       <title>Tools to Predict Well Log Curve Powered by AI</title>
-      <link>hpratama.github.io/projects/project-10/</link>
+      <link>/projects/project-10/</link>
       <pubDate>Sun, 14 Nov 2021 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-10/</guid>
+      <guid>/projects/project-10/</guid>
       <description>Meet SLog, AI-powered tools to predict a well log curve.</description>
     </item>
     
     <item>
       <title>MS Excel Data Formatting for Mercury Injection Capillary Injection Program</title>
-      <link>hpratama.github.io/projects/project-09/</link>
+      <link>/projects/project-09/</link>
       <pubDate>Sat, 17 Oct 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-09/</guid>
+      <guid>/projects/project-09/</guid>
       <description>Develop software that could change the excel data format universally</description>
     </item>
     
     <item>
       <title>Water Saturation Modeling with Archie’s Equation</title>
-      <link>hpratama.github.io/projects/project-08/</link>
+      <link>/projects/project-08/</link>
       <pubDate>Mon, 14 Sep 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-08/</guid>
+      <guid>/projects/project-08/</guid>
       <description>Calculate the change of water saturation based on changing some parameters</description>
     </item>
     
     <item>
       <title>Vp Change Calculation Based on Fluid Substitution</title>
-      <link>hpratama.github.io/projects/project-07/</link>
+      <link>/projects/project-07/</link>
       <pubDate>Sun, 12 Jul 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-07/</guid>
+      <guid>/projects/project-07/</guid>
       <description>Calculate change in Vp based on different fluid substitution</description>
     </item>
     
     <item>
       <title>Fault Detection using Convolutional Neural Network</title>
-      <link>hpratama.github.io/projects/project-06/</link>
+      <link>/projects/project-06/</link>
       <pubDate>Mon, 29 Jun 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-06/</guid>
+      <guid>/projects/project-06/</guid>
       <description>Automatically predict fault delineation in 3D seismic data</description>
     </item>
     
     <item>
       <title>Seismic Image Digitizing</title>
-      <link>hpratama.github.io/projects/project-05/</link>
+      <link>/projects/project-05/</link>
       <pubDate>Fri, 27 Mar 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-05/</guid>
+      <guid>/projects/project-05/</guid>
       <description>Digitize seismic data from seismic image</description>
     </item>
     
     <item>
       <title>Shear Wave Velocity Prediction using Machine Learning</title>
-      <link>hpratama.github.io/projects/project-04/</link>
+      <link>/projects/project-04/</link>
       <pubDate>Wed, 22 Jan 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-04/</guid>
+      <guid>/projects/project-04/</guid>
       <description>Predict the Vs or (Shear wave velocity) value based on well log parameters</description>
     </item>
     
     <item>
       <title>Facies Clustering with Unsupervised Machine Learning</title>
-      <link>hpratama.github.io/projects/project-03/</link>
+      <link>/projects/project-03/</link>
       <pubDate>Tue, 22 Oct 2019 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-03/</guid>
+      <guid>/projects/project-03/</guid>
       <description>Cluster the well log parameter and interpret lithofacies group</description>
     </item>
     
     <item>
       <title>Angle Versus Offset (AVO) Screening and Mapping</title>
-      <link>hpratama.github.io/projects/project-02/</link>
+      <link>/projects/project-02/</link>
       <pubDate>Mon, 02 Sep 2019 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-02/</guid>
+      <guid>/projects/project-02/</guid>
       <description>Find new potential area with hydrocarbon accumulation based on AVO data</description>
     </item>
     
     <item>
       <title>Facies classification using Machine Learning</title>
-      <link>hpratama.github.io/projects/project-01/</link>
+      <link>/projects/project-01/</link>
       <pubDate>Wed, 14 Nov 2018 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-01/</guid>
+      <guid>/projects/project-01/</guid>
       <description>Find optimum model to classified lithofacies from well log parameter data</description>
     </item>
     

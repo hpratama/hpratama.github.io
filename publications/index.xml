@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Publications on Hadyan&#39;s Portfolio | Hadyan Pratama</title>
-    <link>hpratama.github.io/publications/</link>
+    <link>/publications/</link>
     <description>Recent content in Publications on Hadyan&#39;s Portfolio | Hadyan Pratama</description>
     <image>
-      <url>hpratama.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>hpratama.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jul 2022 23:15:00 +0700</lastBuildDate><atom:link href="hpratama.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jul 2022 23:15:00 +0700</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated Geological Features Detection in 3D Seismic Data Using Semi-Supervised Learning</title>
-      <link>hpratama.github.io/publications/publication-03/</link>
+      <link>/publications/publication-03/</link>
       <pubDate>Sat, 02 Jul 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/publications/publication-03/</guid>
+      <guid>/publications/publication-03/</guid>
       <description>Applied Science MDPI
 Abstract A geological interpretation plays an important role to gain information about the structural and stratigraphic of hydrocarbon reservoirs. However, this is a time-consuming task due to the complexity and size of seismic data. We propose a semi-supervised learning technique to automatically and accurately delineate the geological features from 3D seismic data. To generate labeling data for training the supervised Convolutional Neural Network (CNN) model, we propose an efficient workflow based on unsupervised learning.</description>
     </item>
     
     <item>
       <title>Early Results of Comparison between K-Nearest Neighbor and Artificial Neural Network Method for Facies Estimation</title>
-      <link>hpratama.github.io/publications/publication-02/</link>
+      <link>/publications/publication-02/</link>
       <pubDate>Tue, 29 Sep 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/publications/publication-02/</guid>
+      <guid>/publications/publication-02/</guid>
       <description>Journal Geofisika
 Abstract Artificial Intelligence method has been widely used recently in many aspects to understand big data. Fundamentally, the purpose of Artificial Intelligence is to solve nonlinear problem. Most methods are trying to optimize an output from one or many inputs parameter by identifying any potential patterns that fit or using a statistical data. In Oil &amp;amp; Gas industry, one of the main challenges that can be solved by Artificial Intelligence is estimating facies from well log or seismic data.</description>
     </item>
     
     <item>
       <title>Machine learning: Using optimized KNN (K-Nearest Neighbors) to predict the facies classifications</title>
-      <link>hpratama.github.io/publications/publication-01/</link>
+      <link>/publications/publication-01/</link>
       <pubDate>Mon, 29 Apr 2019 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/publications/publication-01/</guid>
+      <guid>/publications/publication-01/</guid>
       <description>The 13th SEGJ International Symposium, Tokyo, Japan, 12-14 November 2018
 Abstract Machine learning is getting more popularity nowadays since it has potential to improve the quality of our life in many fields through data learning and optimization. In a short explanation, machine learning can be seen as non-linear equation optimization that try to predict one output from several input parameters although it may not have any logical relationships. In the world of geoscience work, one challenging problem is lithology estimation from several logs input and/or seismic data.</description>
     </item>

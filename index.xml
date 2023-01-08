@@ -2,86 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hadyan&#39;s Portfolio | Hadyan Pratama</title>
-    <link>hpratama.github.io/</link>
+    <link>/</link>
     <description>Recent content on Hadyan&#39;s Portfolio | Hadyan Pratama</description>
     <image>
-      <url>hpratama.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>hpratama.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Dec 2022 23:15:00 +0700</lastBuildDate><atom:link href="hpratama.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 23:15:00 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>hpratama.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 06 Jan 2023 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>I&amp;rsquo;m currently a machine learning geoscience researcher and technical &amp;amp; business development in Asia Pacific Region at dGB Earth Science based in Kuala Lumpur, Malaysia. My role includes building and shipping machine learning models to solve geoscience problems, implement business development strategies, conduct market research, also develop and maintain relationships with universities in the Asia Pacific Region.
 In January 2023, I graduated from Universiti Teknologi PETRONAS with an MSc by research in Petroleum Geoscience.</description>
     </item>
     
     <item>
       <title>Missing Trace in Seismic Data Prediction using GAN: Pix2Pix Method</title>
-      <link>hpratama.github.io/projects/project-16/</link>
+      <link>/projects/project-16/</link>
       <pubDate>Fri, 02 Dec 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-16/</guid>
+      <guid>/projects/project-16/</guid>
       <description>Estimate the missing trace in seismic data using novel approach GAN Pix2Pix method</description>
     </item>
     
     <item>
       <title>Facies Classication in 3D Seismic Data using Convolutional Neural Network</title>
-      <link>hpratama.github.io/projects/project-15/</link>
+      <link>/projects/project-15/</link>
       <pubDate>Wed, 16 Nov 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-15/</guid>
+      <guid>/projects/project-15/</guid>
       <description>Predict the facies in 3D seismic data using CNN and transfer learning technique</description>
     </item>
     
     <item>
       <title>Mapping Reservoir Facies Distribution using Convolutional Neural Network</title>
-      <link>hpratama.github.io/projects/project-14/</link>
+      <link>/projects/project-14/</link>
       <pubDate>Wed, 28 Sep 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-14/</guid>
+      <guid>/projects/project-14/</guid>
       <description>Using AI model to mapping the distribution of reservoir facies using only 3D seismic data</description>
     </item>
     
     <item>
       <title>Automated Geological Features Detection in 3D Seismic Data Using Semi-Supervised Learning</title>
-      <link>hpratama.github.io/publications/publication-03/</link>
+      <link>/publications/publication-03/</link>
       <pubDate>Sat, 02 Jul 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/publications/publication-03/</guid>
+      <guid>/publications/publication-03/</guid>
       <description>Applied Science MDPI
 Abstract A geological interpretation plays an important role to gain information about the structural and stratigraphic of hydrocarbon reservoirs. However, this is a time-consuming task due to the complexity and size of seismic data. We propose a semi-supervised learning technique to automatically and accurately delineate the geological features from 3D seismic data. To generate labeling data for training the supervised Convolutional Neural Network (CNN) model, we propose an efficient workflow based on unsupervised learning.</description>
     </item>
     
     <item>
       <title>Geological Features Estimation with Semi-Supervised Learning</title>
-      <link>hpratama.github.io/projects/project-13/</link>
+      <link>/projects/project-13/</link>
       <pubDate>Sat, 02 Jul 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-13/</guid>
+      <guid>/projects/project-13/</guid>
       <description>Automated geological interpretation in 3D seismic data using enhanced workflow combine multi attribute seismic, unsupervised machine learning, and Convolutional Neural Network</description>
     </item>
     
     <item>
       <title>Infographics</title>
-      <link>hpratama.github.io/infographics/</link>
+      <link>/infographics/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/infographics/</guid>
+      <guid>/infographics/</guid>
       <description>I also create hand-drawn infographics and illustrations to summarize the key concepts in data science, machine learning and bioinformatics.</description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>hpratama.github.io/talks/</link>
+      <link>/talks/</link>
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/talks/</guid>
+      <guid>/talks/</guid>
       <description>2022   Society of Geophysics SC Universitas Pertamina, Python Bootcamp
 Machine Learning: Salt Dome Detection using Convolutional Neural Network
   Himpunan Ahli Geofisika Indonesia SC Universitas Pertamina, YouTube LIVE Stream
@@ -95,10 +95,10 @@ Watch the video
     
     <item>
       <title>How to master Streamlit for Data Science</title>
-      <link>hpratama.github.io/blogs/how-to-master-streamlit-for-data-science/</link>
+      <link>/blogs/how-to-master-streamlit-for-data-science/</link>
       <pubDate>Fri, 08 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/blogs/how-to-master-streamlit-for-data-science/</guid>
+      <guid>/blogs/how-to-master-streamlit-for-data-science/</guid>
       <description>Preview The essential Streamlit for all your data science needs To build a web app you’d typically use such Python web frameworks as Django and Flask. But the steep learning curve and the big time investment for implementing these apps present a major hurdle.
 Streamlit makes the app creation process as simple as writing Python scripts!
 In this article, you’ll learn how to master Streamlit when getting started with data science.</description>
@@ -106,10 +106,10 @@ In this article, you’ll learn how to master Streamlit when getting started wit
     
     <item>
       <title>What Is Bioinformatics</title>
-      <link>hpratama.github.io/blogs/what-is-bioinformatics/</link>
+      <link>/blogs/what-is-bioinformatics/</link>
       <pubDate>Sun, 03 Apr 2022 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/blogs/what-is-bioinformatics/</guid>
+      <guid>/blogs/what-is-bioinformatics/</guid>
       <description>Introduction So you probably have heard of the term Bioinformatics before, but did not get the chance to learn more about what it is and what it can do.
 In this article, I will be giving you a brief high-level overview of this exciting field of Bioinformatics. Thus, the article will be comprehensible to those coming from biology or computer backgrounds alike.
 As a biologist, I have self-taught myself data science and coding (R and Python) after several years of persistence (initially quitting a couple of times the coding concept just kind of clicked at some point in time).</description>
@@ -117,138 +117,138 @@ As a biologist, I have self-taught myself data science and coding (R and Python)
     
     <item>
       <title>Predict the Efficiency of CO2 Trapping with Machine Learning</title>
-      <link>hpratama.github.io/projects/project-12/</link>
+      <link>/projects/project-12/</link>
       <pubDate>Sat, 18 Dec 2021 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-12/</guid>
+      <guid>/projects/project-12/</guid>
       <description>Developed an AI model to predict the efficiency of CO2 trapping</description>
     </item>
     
     <item>
       <title>Using AI to Predict Acoustic Impedance from Seismic Data</title>
-      <link>hpratama.github.io/projects/project-11/</link>
+      <link>/projects/project-11/</link>
       <pubDate>Sat, 18 Dec 2021 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-11/</guid>
+      <guid>/projects/project-11/</guid>
       <description>Developed an AI model that can learn and estimate the physical properties using seismic data.</description>
     </item>
     
     <item>
       <title>Tools to Predict Well Log Curve Powered by AI</title>
-      <link>hpratama.github.io/projects/project-10/</link>
+      <link>/projects/project-10/</link>
       <pubDate>Sun, 14 Nov 2021 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-10/</guid>
+      <guid>/projects/project-10/</guid>
       <description>Meet SLog, AI-powered tools to predict a well log curve.</description>
     </item>
     
     <item>
       <title>MS Excel Data Formatting for Mercury Injection Capillary Injection Program</title>
-      <link>hpratama.github.io/projects/project-09/</link>
+      <link>/projects/project-09/</link>
       <pubDate>Sat, 17 Oct 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-09/</guid>
+      <guid>/projects/project-09/</guid>
       <description>Develop software that could change the excel data format universally</description>
     </item>
     
     <item>
       <title>Early Results of Comparison between K-Nearest Neighbor and Artificial Neural Network Method for Facies Estimation</title>
-      <link>hpratama.github.io/publications/publication-02/</link>
+      <link>/publications/publication-02/</link>
       <pubDate>Tue, 29 Sep 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/publications/publication-02/</guid>
+      <guid>/publications/publication-02/</guid>
       <description>Journal Geofisika
 Abstract Artificial Intelligence method has been widely used recently in many aspects to understand big data. Fundamentally, the purpose of Artificial Intelligence is to solve nonlinear problem. Most methods are trying to optimize an output from one or many inputs parameter by identifying any potential patterns that fit or using a statistical data. In Oil &amp;amp; Gas industry, one of the main challenges that can be solved by Artificial Intelligence is estimating facies from well log or seismic data.</description>
     </item>
     
     <item>
       <title>My 1st post</title>
-      <link>hpratama.github.io/page/</link>
+      <link>/page/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
-      <guid>hpratama.github.io/page/</guid>
+      <guid>/page/</guid>
       <description>Desc Text.</description>
     </item>
     
     <item>
       <title>Water Saturation Modeling with Archie’s Equation</title>
-      <link>hpratama.github.io/projects/project-08/</link>
+      <link>/projects/project-08/</link>
       <pubDate>Mon, 14 Sep 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-08/</guid>
+      <guid>/projects/project-08/</guid>
       <description>Calculate the change of water saturation based on changing some parameters</description>
     </item>
     
     <item>
       <title>Vp Change Calculation Based on Fluid Substitution</title>
-      <link>hpratama.github.io/projects/project-07/</link>
+      <link>/projects/project-07/</link>
       <pubDate>Sun, 12 Jul 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-07/</guid>
+      <guid>/projects/project-07/</guid>
       <description>Calculate change in Vp based on different fluid substitution</description>
     </item>
     
     <item>
       <title>Fault Detection using Convolutional Neural Network</title>
-      <link>hpratama.github.io/projects/project-06/</link>
+      <link>/projects/project-06/</link>
       <pubDate>Mon, 29 Jun 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-06/</guid>
+      <guid>/projects/project-06/</guid>
       <description>Automatically predict fault delineation in 3D seismic data</description>
     </item>
     
     <item>
       <title>Seismic Image Digitizing</title>
-      <link>hpratama.github.io/projects/project-05/</link>
+      <link>/projects/project-05/</link>
       <pubDate>Fri, 27 Mar 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-05/</guid>
+      <guid>/projects/project-05/</guid>
       <description>Digitize seismic data from seismic image</description>
     </item>
     
     <item>
       <title>Shear Wave Velocity Prediction using Machine Learning</title>
-      <link>hpratama.github.io/projects/project-04/</link>
+      <link>/projects/project-04/</link>
       <pubDate>Wed, 22 Jan 2020 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-04/</guid>
+      <guid>/projects/project-04/</guid>
       <description>Predict the Vs or (Shear wave velocity) value based on well log parameters</description>
     </item>
     
     <item>
       <title>Facies Clustering with Unsupervised Machine Learning</title>
-      <link>hpratama.github.io/projects/project-03/</link>
+      <link>/projects/project-03/</link>
       <pubDate>Tue, 22 Oct 2019 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-03/</guid>
+      <guid>/projects/project-03/</guid>
       <description>Cluster the well log parameter and interpret lithofacies group</description>
     </item>
     
     <item>
       <title>Angle Versus Offset (AVO) Screening and Mapping</title>
-      <link>hpratama.github.io/projects/project-02/</link>
+      <link>/projects/project-02/</link>
       <pubDate>Mon, 02 Sep 2019 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-02/</guid>
+      <guid>/projects/project-02/</guid>
       <description>Find new potential area with hydrocarbon accumulation based on AVO data</description>
     </item>
     
     <item>
       <title>Machine learning: Using optimized KNN (K-Nearest Neighbors) to predict the facies classifications</title>
-      <link>hpratama.github.io/publications/publication-01/</link>
+      <link>/publications/publication-01/</link>
       <pubDate>Mon, 29 Apr 2019 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/publications/publication-01/</guid>
+      <guid>/publications/publication-01/</guid>
       <description>The 13th SEGJ International Symposium, Tokyo, Japan, 12-14 November 2018
 Abstract Machine learning is getting more popularity nowadays since it has potential to improve the quality of our life in many fields through data learning and optimization. In a short explanation, machine learning can be seen as non-linear equation optimization that try to predict one output from several input parameters although it may not have any logical relationships. In the world of geoscience work, one challenging problem is lithology estimation from several logs input and/or seismic data.</description>
     </item>
     
     <item>
       <title>Facies classification using Machine Learning</title>
-      <link>hpratama.github.io/projects/project-01/</link>
+      <link>/projects/project-01/</link>
       <pubDate>Wed, 14 Nov 2018 23:15:00 +0700</pubDate>
       
-      <guid>hpratama.github.io/projects/project-01/</guid>
+      <guid>/projects/project-01/</guid>
       <description>Find optimum model to classified lithofacies from well log parameter data</description>
     </item>
     

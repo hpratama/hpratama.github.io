@@ -10,14 +10,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Dec 2022 23:15:00 +0700</lastBuildDate><atom:link href="https://hpratama.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jun 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://hpratama.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Missing Seismic Trace Estimation using Generative Adversarial Network: Image-to-Image Translation Method</title>
+      <link>https://hpratama.github.io/publications/publication-05/</link>
+      <pubDate>Tue, 06 Jun 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://hpratama.github.io/publications/publication-05/</guid>
+      <description>84th EAGE Annual Conference &amp;amp; Exhibition
+Summary This research introduces a new approach, Image-to-image translation (I2I) using GAN as the foundation to solve the problem of missing traces in seismic data caused by shallow gas or other factors. I2I uses a zero-sum game between a generator model and a discriminator model. The workflow begins with conditioning and preparation of input and output datasets. The data is then normalized and used to train the model for 1500 epochs or 25 minutes using a GPU.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://hpratama.github.io/about/</link>
       <pubDate>Fri, 06 Jan 2023 23:15:00 +0700</pubDate>
       
       <guid>https://hpratama.github.io/about/</guid>
-      <description>I&amp;rsquo;m currently a machine learning geoscience researcher and technical &amp;amp; business development in Asia Pacific Region at dGB Earth Science based in Kuala Lumpur, Malaysia. My role includes building and shipping machine learning models to solve geoscience problems, implement business development strategies, conduct market research, also develop and maintain relationships with universities in the Asia Pacific Region.
+      <description>I&amp;rsquo;m currently a machine learning geoscientist and technical &amp;amp; business development in Asia Pacific Region at dGB Earth Science based in Kuala Lumpur, Malaysia. My role includes building and shipping machine learning models to solve geoscience problems, implement business development strategies, conduct market research, also develop and maintain relationships with universities in the Asia Pacific Region.
 In January 2023, I graduated from Universiti Teknologi PETRONAS with an MSc by research in Petroleum Geoscience.</description>
     </item>
     
@@ -28,6 +38,16 @@ In January 2023, I graduated from Universiti Teknologi PETRONAS with an MSc by r
       
       <guid>https://hpratama.github.io/projects/project-16/</guid>
       <description>Estimate the missing trace in seismic data using novel approach GAN Pix2Pix method</description>
+    </item>
+    
+    <item>
+      <title>Mapping the Distribution of Reservoir Facies on 3D Seismic Data using Convolutional Neural Networks</title>
+      <link>https://hpratama.github.io/publications/publication-04/</link>
+      <pubDate>Sun, 27 Nov 2022 23:15:00 +0700</pubDate>
+      
+      <guid>https://hpratama.github.io/publications/publication-04/</guid>
+      <description>Asia Petroleum Geoscience Conference and Exhibition (APGCE)
+Summary Understanding the distribution of facies in a reservoir is important for reservoir characterization and can be used to aid in identifying the locations of hydrocarbons. However, due to the complexity of the earth’s subsurface, predicting the facies distribution information is often a very challenging task. Recently, the growth of computing power has enabled the application of Machine Learning models in service of studying many geoscience challenges, including the classification of facies using seismic data.</description>
     </item>
     
     <item>
@@ -82,15 +102,14 @@ Abstract A geological interpretation plays an important role to gain information
       <pubDate>Sat, 09 Apr 2022 23:15:00 +0700</pubDate>
       
       <guid>https://hpratama.github.io/talks/</guid>
-      <description>2022   Society of Geophysics SC Universitas Pertamina, Python Bootcamp
-Machine Learning: Salt Dome Detection using Convolutional Neural Network
-  Himpunan Ahli Geofisika Indonesia SC Universitas Pertamina, YouTube LIVE Stream
-Machine Learning : Codding Section to Predict Missing Log Curve(s)
+      <description>2023   OpendTect&amp;rsquo;s ML webinars back to back
+Building and Training Your 2D CNN Model with OpendTect
 Watch the video
-  2020   Himpunan Mahasiswa Geofisika Indonesia, YouTube LIVE Stream
-Introduction of Machine Learning
-Watch the video
-  </description>
+  Ramadhan DataCamp 2023
+An One Week Sharing Session Program on Learning Basic of Data Science and Building A Data Project from Scratch
+  COSARI seminar, Van Lang University
+Automated Geological Interpretation In 3D Seismic Data Using Semi-Supervised Learning
+  2022   Society of Geophysics SC Universitas Pertamina, Python Bootcamp</description>
     </item>
     
     <item>

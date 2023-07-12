@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hpratama.github.io/</loc>
+    <lastmod>2023-06-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://hpratama.github.io/publications/publication-05/</loc>
+    <lastmod>2023-06-06T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://hpratama.github.io/publications/</loc>
+    <lastmod>2023-06-06T23:15:00+07:00</lastmod>
+  </url><url>
     <loc>https://hpratama.github.io/about/</loc>
     <lastmod>2023-01-06T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>https://hpratama.github.io/</loc>
-    <lastmod>2022-12-02T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://hpratama.github.io/projects/project-16/</loc>
     <lastmod>2022-12-02T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://hpratama.github.io/projects/</loc>
     <lastmod>2022-12-02T23:15:00+07:00</lastmod>
+  </url><url>
+    <loc>https://hpratama.github.io/publications/publication-04/</loc>
+    <lastmod>2022-11-27T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://hpratama.github.io/projects/project-15/</loc>
     <lastmod>2022-11-16T23:15:00+07:00</lastmod>
@@ -24,9 +33,6 @@
     <lastmod>2022-07-02T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://hpratama.github.io/projects/project-13/</loc>
-    <lastmod>2022-07-02T23:15:00+07:00</lastmod>
-  </url><url>
-    <loc>https://hpratama.github.io/publications/</loc>
     <lastmod>2022-07-02T23:15:00+07:00</lastmod>
   </url><url>
     <loc>https://hpratama.github.io/infographics/</loc>

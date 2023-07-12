@@ -10,7 +10,27 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jul 2022 23:15:00 +0700</lastBuildDate><atom:link href="https://hpratama.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Jun 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://hpratama.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Missing Seismic Trace Estimation using Generative Adversarial Network: Image-to-Image Translation Method</title>
+      <link>https://hpratama.github.io/publications/publication-05/</link>
+      <pubDate>Tue, 06 Jun 2023 23:15:00 +0700</pubDate>
+      
+      <guid>https://hpratama.github.io/publications/publication-05/</guid>
+      <description>84th EAGE Annual Conference &amp;amp; Exhibition
+Summary This research introduces a new approach, Image-to-image translation (I2I) using GAN as the foundation to solve the problem of missing traces in seismic data caused by shallow gas or other factors. I2I uses a zero-sum game between a generator model and a discriminator model. The workflow begins with conditioning and preparation of input and output datasets. The data is then normalized and used to train the model for 1500 epochs or 25 minutes using a GPU.</description>
+    </item>
+    
+    <item>
+      <title>Mapping the Distribution of Reservoir Facies on 3D Seismic Data using Convolutional Neural Networks</title>
+      <link>https://hpratama.github.io/publications/publication-04/</link>
+      <pubDate>Sun, 27 Nov 2022 23:15:00 +0700</pubDate>
+      
+      <guid>https://hpratama.github.io/publications/publication-04/</guid>
+      <description>Asia Petroleum Geoscience Conference and Exhibition (APGCE)
+Summary Understanding the distribution of facies in a reservoir is important for reservoir characterization and can be used to aid in identifying the locations of hydrocarbons. However, due to the complexity of the earth’s subsurface, predicting the facies distribution information is often a very challenging task. Recently, the growth of computing power has enabled the application of Machine Learning models in service of studying many geoscience challenges, including the classification of facies using seismic data.</description>
+    </item>
+    
     <item>
       <title>Automated Geological Features Detection in 3D Seismic Data Using Semi-Supervised Learning</title>
       <link>https://hpratama.github.io/publications/publication-03/</link>

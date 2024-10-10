@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jun 2023 23:15:00 +0700</lastBuildDate><atom:link href="https://hpratama.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2024 23:15:00 +0700</lastBuildDate><atom:link href="https://hpratama.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lessons Learnt for Tuning a Machine Learning Fault Prediction Model</title>
+      <link>https://hpratama.github.io/publications/publication-06/</link>
+      <pubDate>Thu, 01 Feb 2024 23:15:00 +0700</pubDate>
+      
+      <guid>https://hpratama.github.io/publications/publication-06/</guid>
+      <description>First Break, Volume 42, Issue 2, Feb 2024, p. 49 - 56
+Summary We describe a series of experiments designed to improve fault likelihood predictions of a pre-trained machine learning model on an unseen dataset with real fault interpretations. The goal is to establish a best practice workflow for tuning fault prediction models. The model is a 3D model that is tuned by training with a Masked Dice loss function on 2D interpretations.</description>
+    </item>
+    
     <item>
       <title>Missing Seismic Trace Estimation using Generative Adversarial Network: Image-to-Image Translation Method</title>
       <link>https://hpratama.github.io/publications/publication-05/</link>
